@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Call of Duty Ranked Matchmaking Assistant
 
 ## 🧠 Project Overview
@@ -104,3 +105,6 @@ Returns an object like:
 =======
 # FinalProject00
 >>>>>>> bcc2a55415bc0a8397f9d91dacd4c54465740aa0
+=======
+# Final-Project
+>>>>>>> 85a03a474832e0dcea2341ae5cf4faab54306c10
