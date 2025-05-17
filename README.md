@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Call of Duty Ranked Matchmaking Assistant
 
 ## 🧠 Project Overview
@@ -100,3 +101,6 @@ Returns an object like:
 ---
 
 **File generated for deployment-ready final submission**
+=======
+# FinalProject00
+>>>>>>> bcc2a55415bc0a8397f9d91dacd4c54465740aa0
